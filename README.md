@@ -4,7 +4,7 @@ Dataset - <a href="https://archive.ics.uci.edu/ml/datasets/Letter+Recognition">H
 
 ### Accuracy:
 With K-nearest Neighbours:
-accuracy = 95.225%
+accuracy = 94.875%
 
 Accuracy on Cross Validation data- 95.5375%
 
